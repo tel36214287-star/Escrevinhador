@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Weaver",
+  "description": "An application that uses AI to write complete fictional stories from 100 to 200 pages based on user-provided characters, style, and desired page count.",
+  "requestFramePermissions": []
+}
